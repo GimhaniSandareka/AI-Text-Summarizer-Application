@@ -58,7 +58,7 @@ A web application that leverages Hugging Face's BART model to generate concise s
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/AI-Text-Summarizer.git
+   git clone https://github.com/GimhaniSandareka/AI-Text-Summarizer.git
    cd AI-Text-Summarizer
 
 2. Install dependencies:
