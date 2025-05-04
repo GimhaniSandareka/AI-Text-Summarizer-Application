@@ -52,7 +52,7 @@ A web application that leverages Hugging Face's BART model to generate concise s
 **APIs & Services:**  
 - Hugging Face Inference API (`facebook/bart-large-cnn`)
 - Postman (initial API testing)
-- 
+ 
 
 ## Installations
 
